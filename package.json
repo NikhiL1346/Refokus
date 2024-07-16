@@ -2,6 +2,7 @@
   "name": "refokus",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://nikhil1346.github.io/Refokus-clone/",
   "type": "module",
   "scripts": {
     "dev": "vite",
